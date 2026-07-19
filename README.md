@@ -1,1 +1,1 @@
-This is a Python project using OpenCV to create an 'Invisible Cloak' effect by masking specific colors.
+This project is inspired by Harry Potter's Invisible Cloak. It uses computer vision techniques to make a specific colored object appear invisible by replacing it with the previously captured background in real time. The project is built using Python and OpenCV, demonstrating the use of image processing, color detection, and masking techniques.
